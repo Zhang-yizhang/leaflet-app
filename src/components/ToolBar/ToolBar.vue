@@ -45,6 +45,7 @@ export default {
     //console.log("aaaaaa")
   },
   methods: {
+    // 地图事件应该写为方法的形式，不然关闭绘制点事件的时候会关闭绘制线和面的事件。同理，线和面也如此
     pointClick() {
       if (this.isPointClicked) {
         this.isPointClicked = false;
@@ -133,6 +134,7 @@ export default {
       };
       this.map.on("click", onClick);
       const onMouseMove = evt => {
+        // 至少有一个点才添加临时线段
         if (latlngs.length > 0) {
           // 添加临时线段
           const coords = [
@@ -203,7 +205,9 @@ export default {
       };
       this.map.on("click", onClick);
       const onMouseMove = evt => {
+        // 至少有一个点才添加临时线段
         if (latlngs.length > 0) {
+          //面的临时线段坐标顺序[起点，鼠标移动点，最后一次点击点]
           tempLine.setLatLngs([
             latlngs[0],
             evt.latlng,
@@ -230,6 +234,7 @@ export default {
         this.map._container.style.cursor = state;
       }
     },
+
     // 清除图形
     clearAll() {
       this.isPointClicked = false;
