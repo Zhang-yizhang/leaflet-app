@@ -3,6 +3,7 @@ import App from './App.vue'
 
 import ElementPlus from 'element-plus'
 import 'element-plus/theme-chalk/index.css';
+import './style/main.css'
 
 // 引入Leaflet
 import 'leaflet'

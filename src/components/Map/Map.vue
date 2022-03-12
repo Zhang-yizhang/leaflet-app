@@ -9,16 +9,24 @@
 import L from "leaflet";
 import Icon from "./marker-icon.png";
 import IconShadow from "./marker-shadow.png";
+import eventBus from "../js/bus";
 import Toolbar from "../ToolBar/ToolBar.vue";
+
 export default {
   name: "Map",
   components: {
     Toolbar
   },
+  data() {
+    return {
+      distance: 0
+    };
+  },
   created() {},
   mounted() {
     // 必须在组件挂载之后初始化地图，不然会报错
     this.initMap();
+    this.getDistanceResult();
   },
   methods: {
     initMap() {
@@ -83,6 +91,13 @@ export default {
       });
       //将map注册为全局变量
       window._map = map;
+    },
+    // 获取距离参数
+    getDistanceResult() {
+      eventBus.on("sendDistance", param => {
+        console.log("距离：", param);
+        this.distance = param;
+      });
     }
   }
 };
