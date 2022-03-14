@@ -51,6 +51,7 @@ export default {
   },
   computed: {
     distanceRes() {
+      
       if (this.distanceUnit !== "") {
         switch (this.distanceUnit) {
           case "Km":
