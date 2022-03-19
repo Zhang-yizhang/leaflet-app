@@ -7,7 +7,6 @@
       <li>首页4</li>
       <li>首页5</li>
     </ul>
-    <el-button type="primary">主要按钮</el-button>
   </div>
 </template>
 
@@ -22,10 +21,9 @@ export default {};
   background: #008c8c;
 }
 .clearfix::after {
-  display:"block";
+  display: "block";
   clear: both;
   content: "";
-
 }
 .container ul {
   height: 100%;
@@ -39,8 +37,8 @@ export default {};
   list-style: none;
   color: #fff;
 }
-.container ul li:hover{
-    cursor: pointer;
-    color: lightblue;
+.container ul li:hover {
+  cursor: pointer;
+  color: lightblue;
 }
 </style>

@@ -1,0 +1,4445 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.16305738210656,
+                    23.13667404697526
+                ]
+            },
+            "properties": {
+                "Name_CHN": "赤岗塔",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.18383377370634,
+                    23.100037587172096
+                ]
+            },
+            "properties": {
+                "Name_CHN": "海心沙",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.18419677370633,
+                    23.103986587172074
+                ]
+            },
+            "properties": {
+                "Name_CHN": "歌剧院",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.18422977270637,
+                    23.107457587172064
+                ]
+            },
+            "properties": {
+                "Name_CHN": "花城大道",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.16386738210656,
+                    23.153922046975254
+                ]
+            },
+            "properties": {
+                "Name_CHN": "妇儿中心",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.16387738210653,
+                    23.157693046975282
+                ]
+            },
+            "properties": {
+                "Name_CHN": "黄埔大道",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31663877868084,
+                    23.10835517434407
+                ]
+            },
+            "properties": {
+                "Name_CHN": "天河南",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32168559189358,
+                    23.091056809693953
+                ]
+            },
+            "properties": {
+                "Name_CHN": "体育中心南",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32379999900002,
+                    23.141812000000073
+                ]
+            },
+            "properties": {
+                "Name_CHN": "林和西",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32379999900002,
+                    23.141812000000073
+                ]
+            },
+            "properties": {
+                "Name_CHN": "林和西",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22983839706853,
+                    23.083442534475296
+                ]
+            },
+            "properties": {
+                "Name_CHN": "体育中心南",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31663877868084,
+                    23.10835517434407
+                ]
+            },
+            "properties": {
+                "Name_CHN": "天河南",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.16387738210653,
+                    23.157693046975282
+                ]
+            },
+            "properties": {
+                "Name_CHN": "黄埔大道",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.16386738210656,
+                    23.153922046975254
+                ]
+            },
+            "properties": {
+                "Name_CHN": "妇儿中心",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.18422977270637,
+                    23.107457587172064
+                ]
+            },
+            "properties": {
+                "Name_CHN": "花城大道",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.18419677370633,
+                    23.103986587172074
+                ]
+            },
+            "properties": {
+                "Name_CHN": "歌剧院",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.18383377370634,
+                    23.100037587172096
+                ]
+            },
+            "properties": {
+                "Name_CHN": "海心沙",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.16305738210656,
+                    23.13667404697526
+                ]
+            },
+            "properties": {
+                "Name_CHN": "赤岗塔",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3248870000001,
+                    23.14962100000008
+                ]
+            },
+            "properties": {
+                "Name_CHN": "广州东站",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.33195019150878,
+                    23.07106155284265
+                ]
+            },
+            "properties": {
+                "Name_CHN": "体育中心",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32506319250876,
+                    23.066891552842662
+                ]
+            },
+            "properties": {
+                "Name_CHN": "体育西路",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.14847038210655,
+                    23.158811046975302
+                ]
+            },
+            "properties": {
+                "Name_CHN": "杨箕",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29537600000003,
+                    23.123984000000064
+                ]
+            },
+            "properties": {
+                "Name_CHN": "东山口",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.285394,
+                    23.126768000000084
+                ]
+            },
+            "properties": {
+                "Name_CHN": "烈士陵园",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22726899548115,
+                    23.18230738753647
+                ]
+            },
+            "properties": {
+                "Name_CHN": "农讲所",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22334805510206,
+                    22.969796250218735
+                ]
+            },
+            "properties": {
+                "Name_CHN": "公园前",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.20714099548115,
+                    23.180896387536507
+                ]
+            },
+            "properties": {
+                "Name_CHN": "西门口",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.24633500000004,
+                    23.125722000000053
+                ]
+            },
+            "properties": {
+                "Name_CHN": "陈家祠",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.23438777768081,
+                    23.060824935860126
+                ]
+            },
+            "properties": {
+                "Name_CHN": "长寿路",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2330367786808,
+                    23.05356893686013
+                ]
+            },
+            "properties": {
+                "Name_CHN": "黄沙",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22792777868085,
+                    23.041699934860162
+                ]
+            },
+            "properties": {
+                "Name_CHN": "芳村",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22616577868087,
+                    23.030035935860155
+                ]
+            },
+            "properties": {
+                "Name_CHN": "花地湾",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.20964317434414,
+                    23.097857634147257
+                ]
+            },
+            "properties": {
+                "Name_CHN": "坑口",
+                "StationNum": 15,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22442477868083,
+                    23.007284935860127
+                ]
+            },
+            "properties": {
+                "Name_CHN": "西朗",
+                "StationNum": 16,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22442477868083,
+                    23.007284935860127
+                ]
+            },
+            "properties": {
+                "Name_CHN": "西朗",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.20964317434414,
+                    23.097857634147257
+                ]
+            },
+            "properties": {
+                "Name_CHN": "坑口",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22616577868087,
+                    23.030035935860155
+                ]
+            },
+            "properties": {
+                "Name_CHN": "花地湾",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22792777868085,
+                    23.041699934860162
+                ]
+            },
+            "properties": {
+                "Name_CHN": "芳村",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2330367786808,
+                    23.05356893686013
+                ]
+            },
+            "properties": {
+                "Name_CHN": "黄沙",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.23438777768081,
+                    23.060824935860126
+                ]
+            },
+            "properties": {
+                "Name_CHN": "长寿路",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.24633500000004,
+                    23.125722000000053
+                ]
+            },
+            "properties": {
+                "Name_CHN": "陈家祠",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.20714099548115,
+                    23.180896387536507
+                ]
+            },
+            "properties": {
+                "Name_CHN": "西门口",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.21478199548108,
+                    23.181092387536467
+                ]
+            },
+            "properties": {
+                "Name_CHN": "公园前",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22726899548115,
+                    23.18230738753647
+                ]
+            },
+            "properties": {
+                "Name_CHN": "农讲所",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.285394,
+                    23.126768000000084
+                ]
+            },
+            "properties": {
+                "Name_CHN": "烈士陵园",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29537600000003,
+                    23.123984000000064
+                ]
+            },
+            "properties": {
+                "Name_CHN": "东山口",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.14847038210655,
+                    23.158811046975302
+                ]
+            },
+            "properties": {
+                "Name_CHN": "杨箕",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32506319250876,
+                    23.066891552842662
+                ]
+            },
+            "properties": {
+                "Name_CHN": "体育西路",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.33195019150878,
+                    23.07106155284265
+                ]
+            },
+            "properties": {
+                "Name_CHN": "体育中心",
+                "StationNum": 15,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3248870000001,
+                    23.14962100000008
+                ]
+            },
+            "properties": {
+                "Name_CHN": "广州东站",
+                "StationNum": 16,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.26094277868083,
+                    22.929580936860134
+                ]
+            },
+            "properties": {
+                "Name_CHN": "广州南站",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2696437786808,
+                    22.934945935860128
+                ]
+            },
+            "properties": {
+                "Name_CHN": "石壁",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.27852977868076,
+                    22.956023935860117
+                ]
+            },
+            "properties": {
+                "Name_CHN": "会江",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.28567477968079,
+                    22.97646093686012
+                ]
+            },
+            "properties": {
+                "Name_CHN": "南浦",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29089377868081,
+                    22.98606293586016
+                ]
+            },
+            "properties": {
+                "Name_CHN": "洛溪",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2898107796808,
+                    23.00747493586016
+                ]
+            },
+            "properties": {
+                "Name_CHN": "南洲",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29656051490531,
+                    23.06965832339654
+                ]
+            },
+            "properties": {
+                "Name_CHN": "东晓南",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2826975149053,
+                    23.080785323396583
+                ]
+            },
+            "properties": {
+                "Name_CHN": "江泰路",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.27902851490535,
+                    23.08925532339657
+                ]
+            },
+            "properties": {
+                "Name_CHN": "昌岗",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.27613151490527,
+                    23.095638323396543
+                ]
+            },
+            "properties": {
+                "Name_CHN": "江南西",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.26237077868086,
+                    23.049075935860117
+                ]
+            },
+            "properties": {
+                "Name_CHN": "市二宫",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.25760277868085,
+                    23.05721293586015
+                ]
+            },
+            "properties": {
+                "Name_CHN": "海珠广场",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.20757082806131,
+                    23.142111227040857
+                ]
+            },
+            "properties": {
+                "Name_CHN": "公园前",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.21490299548111,
+                    23.188150387536496
+                ]
+            },
+            "properties": {
+                "Name_CHN": "纪念堂",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.26127100100007,
+                    23.14024500000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "越秀公园",
+                "StationNum": 15,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.25674600100001,
+                    23.14782800000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "广州火车站",
+                "StationNum": 16,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.27731436365025,
+                    23.147980586172082
+                ]
+            },
+            "properties": {
+                "Name_CHN": "三元里",
+                "StationNum": 17,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.28460536365014,
+                    23.158017587172083
+                ]
+            },
+            "properties": {
+                "Name_CHN": "飞翔公园",
+                "StationNum": 18,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2914743636502,
+                    23.17019858717208
+                ]
+            },
+            "properties": {
+                "Name_CHN": "白云公园",
+                "StationNum": 19,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29614136465023,
+                    23.178291587172055
+                ]
+            },
+            "properties": {
+                "Name_CHN": "白云文化广场",
+                "StationNum": 20,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.28069700000003,
+                    23.19858000000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "萧岗",
+                "StationNum": 21,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.28356400000007,
+                    23.211331000000087
+                ]
+            },
+            "properties": {
+                "Name_CHN": "江夏",
+                "StationNum": 22,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.28979600000002,
+                    23.221035000000086
+                ]
+            },
+            "properties": {
+                "Name_CHN": "黄边",
+                "StationNum": 23,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29119800000001,
+                    23.239005000000077
+                ]
+            },
+            "properties": {
+                "Name_CHN": "嘉禾望岗",
+                "StationNum": 24,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29119800000001,
+                    23.239005000000077
+                ]
+            },
+            "properties": {
+                "Name_CHN": "嘉禾望岗",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.28979600000002,
+                    23.221035000000086
+                ]
+            },
+            "properties": {
+                "Name_CHN": "黄边",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.28356400000007,
+                    23.211331000000087
+                ]
+            },
+            "properties": {
+                "Name_CHN": "江夏",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.28069700000003,
+                    23.19858000000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "萧岗",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29614136465023,
+                    23.178291587172055
+                ]
+            },
+            "properties": {
+                "Name_CHN": "白云文化广场",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2914743636502,
+                    23.17019858717208
+                ]
+            },
+            "properties": {
+                "Name_CHN": "白云公园",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.28460536365014,
+                    23.158017587172083
+                ]
+            },
+            "properties": {
+                "Name_CHN": "飞翔公园",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.27731436365025,
+                    23.147980586172082
+                ]
+            },
+            "properties": {
+                "Name_CHN": "三元里",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.25674600100001,
+                    23.14782800000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "广州火车站",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.26127100100007,
+                    23.14024500000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "越秀公园",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.21490299548111,
+                    23.188150387536496
+                ]
+            },
+            "properties": {
+                "Name_CHN": "纪念堂",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.21566099548113,
+                    23.181134387536474
+                ]
+            },
+            "properties": {
+                "Name_CHN": "公园前",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.25760277868085,
+                    23.05721293586015
+                ]
+            },
+            "properties": {
+                "Name_CHN": "海珠广场",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.26237077868086,
+                    23.049075935860117
+                ]
+            },
+            "properties": {
+                "Name_CHN": "市二宫",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.27613151490527,
+                    23.095638323396543
+                ]
+            },
+            "properties": {
+                "Name_CHN": "江南西",
+                "StationNum": 15,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.27902851490535,
+                    23.08925532339657
+                ]
+            },
+            "properties": {
+                "Name_CHN": "昌岗",
+                "StationNum": 16,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2826975149053,
+                    23.080785323396583
+                ]
+            },
+            "properties": {
+                "Name_CHN": "江泰路",
+                "StationNum": 17,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29656051490531,
+                    23.06965832339654
+                ]
+            },
+            "properties": {
+                "Name_CHN": "东晓南",
+                "StationNum": 18,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2898107796808,
+                    23.00747493586016
+                ]
+            },
+            "properties": {
+                "Name_CHN": "南洲",
+                "StationNum": 19,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29089377868081,
+                    22.98606293586016
+                ]
+            },
+            "properties": {
+                "Name_CHN": "洛溪",
+                "StationNum": 20,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.28567477968079,
+                    22.97646093686012
+                ]
+            },
+            "properties": {
+                "Name_CHN": "南浦",
+                "StationNum": 21,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.27852977868076,
+                    22.956023935860117
+                ]
+            },
+            "properties": {
+                "Name_CHN": "会江",
+                "StationNum": 22,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2696437786808,
+                    22.934945935860128
+                ]
+            },
+            "properties": {
+                "Name_CHN": "石壁",
+                "StationNum": 23,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.26094277868083,
+                    22.929580936860134
+                ]
+            },
+            "properties": {
+                "Name_CHN": "广州南站",
+                "StationNum": 24,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.43152489431486,
+                    23.244982070153185
+                ]
+            },
+            "properties": {
+                "Name_CHN": "机场南",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.42629889431487,
+                    23.21450807015316
+                ]
+            },
+            "properties": {
+                "Name_CHN": "高增",
+                "StationNum": 2,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.4244018933149,
+                    23.193750070153158
+                ]
+            },
+            "properties": {
+                "Name_CHN": "人和",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.30301000000009,
+                    23.28548900000004
+                ]
+            },
+            "properties": {
+                "Name_CHN": "龙归",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29119800000001,
+                    23.239005000000077
+                ]
+            },
+            "properties": {
+                "Name_CHN": "嘉禾望岗",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29829900000004,
+                    23.22290000000004
+                ]
+            },
+            "properties": {
+                "Name_CHN": "白云大道北",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.30494500000009,
+                    23.22066200000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "永泰",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32623299900001,
+                    23.197102000000086
+                ]
+            },
+            "properties": {
+                "Name_CHN": "同和",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32623600000011,
+                    23.18533400000007
+                ]
+            },
+            "properties": {
+                "Name_CHN": "京溪南方医院",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3202930000001,
+                    23.175241000000085
+                ]
+            },
+            "properties": {
+                "Name_CHN": "梅花园",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.327132,
+                    23.159980000000076
+                ]
+            },
+            "properties": {
+                "Name_CHN": "燕塘",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3244350010001,
+                    23.149586000000056
+                ]
+            },
+            "properties": {
+                "Name_CHN": "广州东站",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32379999900002,
+                    23.141812000000073
+                ]
+            },
+            "properties": {
+                "Name_CHN": "林和西",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32506319250876,
+                    23.066891552842662
+                ]
+            },
+            "properties": {
+                "Name_CHN": "体育西路",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32506319250876,
+                    23.066891552842662
+                ]
+            },
+            "properties": {
+                "Name_CHN": "体育西路",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32379999900002,
+                    23.141812000000073
+                ]
+            },
+            "properties": {
+                "Name_CHN": "林和西",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3244350010001,
+                    23.149586000000056
+                ]
+            },
+            "properties": {
+                "Name_CHN": "广州东站",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.327132,
+                    23.159980000000076
+                ]
+            },
+            "properties": {
+                "Name_CHN": "燕塘",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3202930000001,
+                    23.175241000000085
+                ]
+            },
+            "properties": {
+                "Name_CHN": "梅花园",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32623600000011,
+                    23.18533400000007
+                ]
+            },
+            "properties": {
+                "Name_CHN": "京溪南方医院",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32623299900001,
+                    23.197102000000086
+                ]
+            },
+            "properties": {
+                "Name_CHN": "同和",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.30494500000009,
+                    23.22066200000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "永泰",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29829900000004,
+                    23.22290000000004
+                ]
+            },
+            "properties": {
+                "Name_CHN": "白云大道北",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29119800000001,
+                    23.239005000000077
+                ]
+            },
+            "properties": {
+                "Name_CHN": "嘉禾望岗",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.30301000000009,
+                    23.28548900000004
+                ]
+            },
+            "properties": {
+                "Name_CHN": "龙归",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.4244018933149,
+                    23.193750070153158
+                ]
+            },
+            "properties": {
+                "Name_CHN": "人和",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.42629889431487,
+                    23.21450807015316
+                ]
+            },
+            "properties": {
+                "Name_CHN": "高增",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.43152489431486,
+                    23.244982070153185
+                ]
+            },
+            "properties": {
+                "Name_CHN": "机场南",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.38546800000006,
+                    22.93553200000008
+                ]
+            },
+            "properties": {
+                "Name_CHN": "番禺广场",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3617220000001,
+                    22.94979600000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "市桥",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32213677868083,
+                    22.935918935860116
+                ]
+            },
+            "properties": {
+                "Name_CHN": "汉溪长隆",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31385377868082,
+                    22.960995935860126
+                ]
+            },
+            "properties": {
+                "Name_CHN": "大石",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31238877868077,
+                    22.980796935860155
+                ]
+            },
+            "properties": {
+                "Name_CHN": "厦滘",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31219977868079,
+                    22.99784293486016
+                ]
+            },
+            "properties": {
+                "Name_CHN": "沥滘",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31316677868085,
+                    23.020744935860137
+                ]
+            },
+            "properties": {
+                "Name_CHN": "大塘",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31238377868078,
+                    23.039087934860163
+                ]
+            },
+            "properties": {
+                "Name_CHN": "客村",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.16305738210656,
+                    23.13667404697526
+                ]
+            },
+            "properties": {
+                "Name_CHN": "赤岗塔",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.18095777370633,
+                    23.10822458717206
+                ]
+            },
+            "properties": {
+                "Name_CHN": "珠江新城",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32506319250876,
+                    23.066891552842662
+                ]
+            },
+            "properties": {
+                "Name_CHN": "体育西路",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.33241100000009,
+                    23.133177000000046
+                ]
+            },
+            "properties": {
+                "Name_CHN": "石牌桥",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.34013900000002,
+                    23.13510800000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "岗顶",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.34556399900009,
+                    23.14058299900006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "华师",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.35179400000004,
+                    23.152978000000076
+                ]
+            },
+            "properties": {
+                "Name_CHN": "五山",
+                "StationNum": 15,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3432160000001,
+                    23.17086800000004
+                ]
+            },
+            "properties": {
+                "Name_CHN": "天河客运站",
+                "StationNum": 16,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3432160000001,
+                    23.17086800000004
+                ]
+            },
+            "properties": {
+                "Name_CHN": "天河客运站",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.35179400000004,
+                    23.152978000000076
+                ]
+            },
+            "properties": {
+                "Name_CHN": "五山",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.34556399900009,
+                    23.14058299900006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "华师",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.34013900000002,
+                    23.13510800000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "岗顶",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.33241100000009,
+                    23.133177000000046
+                ]
+            },
+            "properties": {
+                "Name_CHN": "石牌桥",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32506319250876,
+                    23.066891552842662
+                ]
+            },
+            "properties": {
+                "Name_CHN": "体育西路",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.18095777370633,
+                    23.10822458717206
+                ]
+            },
+            "properties": {
+                "Name_CHN": "珠江新城",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.16305738210656,
+                    23.13667404697526
+                ]
+            },
+            "properties": {
+                "Name_CHN": "赤岗塔",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31238377868078,
+                    23.039087934860163
+                ]
+            },
+            "properties": {
+                "Name_CHN": "客村",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31316677868085,
+                    23.020744935860137
+                ]
+            },
+            "properties": {
+                "Name_CHN": "大塘",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31219977868079,
+                    22.99784293486016
+                ]
+            },
+            "properties": {
+                "Name_CHN": "沥滘",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31238877868077,
+                    22.980796935860155
+                ]
+            },
+            "properties": {
+                "Name_CHN": "厦滘",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31385377868082,
+                    22.960995935860126
+                ]
+            },
+            "properties": {
+                "Name_CHN": "大石",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32213677868083,
+                    22.935918935860116
+                ]
+            },
+            "properties": {
+                "Name_CHN": "汉溪长隆",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3617220000001,
+                    22.94979600000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "市桥",
+                "StationNum": 15,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.38546800000006,
+                    22.93553200000008
+                ]
+            },
+            "properties": {
+                "Name_CHN": "番禺广场",
+                "StationNum": 16,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.40714000000003,
+                    23.13222600000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "黄村",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3955390000001,
+                    23.12446700000004
+                ]
+            },
+            "properties": {
+                "Name_CHN": "车陂",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.38956800000005,
+                    23.115928000000054
+                ]
+            },
+            "properties": {
+                "Name_CHN": "车陂南",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.38479600100004,
+                    23.097712001000048
+                ]
+            },
+            "properties": {
+                "Name_CHN": "万胜围",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.37701000000004,
+                    23.066798001000052
+                ]
+            },
+            "properties": {
+                "Name_CHN": "官洲",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.37134823396502,
+                    23.023833761516133
+                ]
+            },
+            "properties": {
+                "Name_CHN": "大学城北",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.40043100000003,
+                    23.043420001000072
+                ]
+            },
+            "properties": {
+                "Name_CHN": "大学城南",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.43490963414729,
+                    23.06611442999275
+                ]
+            },
+            "properties": {
+                "Name_CHN": "新造",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.44666500000005,
+                    22.98460300000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "官桥",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.46546500000011,
+                    22.957369000000085
+                ]
+            },
+            "properties": {
+                "Name_CHN": "石碁",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3503163510934,
+                    23.002000878352817
+                ]
+            },
+            "properties": {
+                "Name_CHN": "海傍",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.35978635109336,
+                    22.98171787835281
+                ]
+            },
+            "properties": {
+                "Name_CHN": "低涌",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1943905176022,
+                    22.992225906960698
+                ]
+            },
+            "properties": {
+                "Name_CHN": "东涌",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.19761829628295,
+                    22.91313784282073
+                ]
+            },
+            "properties": {
+                "Name_CHN": "庆盛",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.15426268642729,
+                    22.93272084733968
+                ]
+            },
+            "properties": {
+                "Name_CHN": "黄阁汽车城",
+                "StationNum": 15,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.23415651760219,
+                    22.931215906960688
+                ]
+            },
+            "properties": {
+                "Name_CHN": "黄阁",
+                "StationNum": 16,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.24323051760213,
+                    22.906793905960683
+                ]
+            },
+            "properties": {
+                "Name_CHN": "蕉门",
+                "StationNum": 17,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.25414951760219,
+                    22.898619907960665
+                ]
+            },
+            "properties": {
+                "Name_CHN": "金洲",
+                "StationNum": 18,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.25414951760219,
+                    22.898619907960665
+                ]
+            },
+            "properties": {
+                "Name_CHN": "金洲",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.24323051760213,
+                    22.906793905960683
+                ]
+            },
+            "properties": {
+                "Name_CHN": "蕉门",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.23415651760219,
+                    22.931215906960688
+                ]
+            },
+            "properties": {
+                "Name_CHN": "黄阁",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.15426268642729,
+                    22.93272084733968
+                ]
+            },
+            "properties": {
+                "Name_CHN": "黄阁汽车城",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.19761829628295,
+                    22.91313784282073
+                ]
+            },
+            "properties": {
+                "Name_CHN": "庆盛",
+                "StationNum": 5,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1943905176022,
+                    22.992225906960698
+                ]
+            },
+            "properties": {
+                "Name_CHN": "东涌",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.35978635109336,
+                    22.98171787835281
+                ]
+            },
+            "properties": {
+                "Name_CHN": "低涌",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3503163510934,
+                    23.002000878352817
+                ]
+            },
+            "properties": {
+                "Name_CHN": "海傍",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.46546500000011,
+                    22.957369000000085
+                ]
+            },
+            "properties": {
+                "Name_CHN": "石碁",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.44666500000005,
+                    22.98460300000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "官桥",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.41563600000006,
+                    23.02828100000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "新造",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.40043100000003,
+                    23.043420001000072
+                ]
+            },
+            "properties": {
+                "Name_CHN": "大学城南",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.37134823396502,
+                    23.023833761516133
+                ]
+            },
+            "properties": {
+                "Name_CHN": "大学城北",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.37701000000004,
+                    23.066798001000052
+                ]
+            },
+            "properties": {
+                "Name_CHN": "官洲",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.38479600100004,
+                    23.097712001000048
+                ]
+            },
+            "properties": {
+                "Name_CHN": "万胜围",
+                "StationNum": 15,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.38956800000005,
+                    23.115928000000054
+                ]
+            },
+            "properties": {
+                "Name_CHN": "车陂南",
+                "StationNum": 16,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3955390000001,
+                    23.12446700000004
+                ]
+            },
+            "properties": {
+                "Name_CHN": "车陂",
+                "StationNum": 17,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.40714000000003,
+                    23.13222600000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "黄村",
+                "StationNum": 18,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.20070777968078,
+                    23.056600934860114
+                ]
+            },
+            "properties": {
+                "Name_CHN": "滘口",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2177200000001,
+                    23.125532000000078
+                ]
+            },
+            "properties": {
+                "Name_CHN": "坦尾",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.23281900000006,
+                    23.126013000000057
+                ]
+            },
+            "properties": {
+                "Name_CHN": "中山八",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2374000000001,
+                    23.137560000000065
+                ]
+            },
+            "properties": {
+                "Name_CHN": "西场",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.241759,
+                    23.14184800000004
+                ]
+            },
+            "properties": {
+                "Name_CHN": "西村",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.25674600100001,
+                    23.14782800000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "广州火车站",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.25741031095345,
+                    23.11898963534992
+                ]
+            },
+            "properties": {
+                "Name_CHN": "小北",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.286567999,
+                    23.136362001000066
+                ]
+            },
+            "properties": {
+                "Name_CHN": "淘金",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29663700000003,
+                    23.134452000000067
+                ]
+            },
+            "properties": {
+                "Name_CHN": "区庄",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.30729999900007,
+                    23.13450400000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "动物园",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.14697538210646,
+                    23.15847104697525
+                ]
+            },
+            "properties": {
+                "Name_CHN": "杨箕",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.15409838210655,
+                    23.15064304697529
+                ]
+            },
+            "properties": {
+                "Name_CHN": "五羊邨",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.18095777370633,
+                    23.10822458717206
+                ]
+            },
+            "properties": {
+                "Name_CHN": "珠江新城",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.17211638210654,
+                    23.14918704697527
+                ]
+            },
+            "properties": {
+                "Name_CHN": "猎德",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.34569600000009,
+                    23.117391000000055
+                ]
+            },
+            "properties": {
+                "Name_CHN": "潭村",
+                "StationNum": 15,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.363293,
+                    23.116649000000052
+                ]
+            },
+            "properties": {
+                "Name_CHN": "员村",
+                "StationNum": 16,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.37686300000007,
+                    23.11939200000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "科韵路",
+                "StationNum": 17,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.38956800000005,
+                    23.115928000000054
+                ]
+            },
+            "properties": {
+                "Name_CHN": "车陂南",
+                "StationNum": 18,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.4015740000001,
+                    23.10939200000007
+                ]
+            },
+            "properties": {
+                "Name_CHN": "东圃",
+                "StationNum": 19,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.41568800000005,
+                    23.104134000000045
+                ]
+            },
+            "properties": {
+                "Name_CHN": "三溪",
+                "StationNum": 20,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.43227300000001,
+                    23.100430000000074
+                ]
+            },
+            "properties": {
+                "Name_CHN": "鱼珠",
+                "StationNum": 21,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.44662700000003,
+                    23.103488999000035
+                ]
+            },
+            "properties": {
+                "Name_CHN": "大沙地",
+                "StationNum": 22,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.45849700000008,
+                    23.106220000000064
+                ]
+            },
+            "properties": {
+                "Name_CHN": "大沙东",
+                "StationNum": 23,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.46894300000008,
+                    23.103833000000066
+                ]
+            },
+            "properties": {
+                "Name_CHN": "文冲",
+                "StationNum": 24,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.46894300000008,
+                    23.103833000000066
+                ]
+            },
+            "properties": {
+                "Name_CHN": "文冲",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.45849700000008,
+                    23.106220000000064
+                ]
+            },
+            "properties": {
+                "Name_CHN": "大沙东",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.44662700000003,
+                    23.103488999000035
+                ]
+            },
+            "properties": {
+                "Name_CHN": "大沙地",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.43227300000001,
+                    23.100430000000074
+                ]
+            },
+            "properties": {
+                "Name_CHN": "鱼珠",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.41568800000005,
+                    23.104134000000045
+                ]
+            },
+            "properties": {
+                "Name_CHN": "三溪",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.4015740000001,
+                    23.10939200000007
+                ]
+            },
+            "properties": {
+                "Name_CHN": "东圃",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.38956800000005,
+                    23.115928000000054
+                ]
+            },
+            "properties": {
+                "Name_CHN": "车陂南",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.37686300000007,
+                    23.11939200000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "科韵路",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.363293,
+                    23.116649000000052
+                ]
+            },
+            "properties": {
+                "Name_CHN": "员村",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.34569600000009,
+                    23.117391000000055
+                ]
+            },
+            "properties": {
+                "Name_CHN": "潭村",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.17211638210654,
+                    23.14918704697527
+                ]
+            },
+            "properties": {
+                "Name_CHN": "猎德",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.18095777370633,
+                    23.10822458717206
+                ]
+            },
+            "properties": {
+                "Name_CHN": "珠江新城",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.15409838210655,
+                    23.15064304697529
+                ]
+            },
+            "properties": {
+                "Name_CHN": "五羊邨",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.14697538210646,
+                    23.15847104697525
+                ]
+            },
+            "properties": {
+                "Name_CHN": "杨箕",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.30729999900007,
+                    23.13450400000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "动物园",
+                "StationNum": 15,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29663700000003,
+                    23.134452000000067
+                ]
+            },
+            "properties": {
+                "Name_CHN": "区庄",
+                "StationNum": 16,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.286567999,
+                    23.136362001000066
+                ]
+            },
+            "properties": {
+                "Name_CHN": "淘金",
+                "StationNum": 17,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.27644599900009,
+                    23.13945300000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "小北",
+                "StationNum": 18,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.25674600100001,
+                    23.14782800000006
+                ]
+            },
+            "properties": {
+                "Name_CHN": "广州火车站",
+                "StationNum": 19,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.241759,
+                    23.14184800000004
+                ]
+            },
+            "properties": {
+                "Name_CHN": "西村",
+                "StationNum": 20,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2374000000001,
+                    23.137560000000065
+                ]
+            },
+            "properties": {
+                "Name_CHN": "西场",
+                "StationNum": 21,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.23281900000006,
+                    23.126013000000057
+                ]
+            },
+            "properties": {
+                "Name_CHN": "中山八",
+                "StationNum": 22,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2177200000001,
+                    23.125532000000078
+                ]
+            },
+            "properties": {
+                "Name_CHN": "坦尾",
+                "StationNum": 23,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.20070777968078,
+                    23.056600934860114
+                ]
+            },
+            "properties": {
+                "Name_CHN": "滘口",
+                "StationNum": 24,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.24806677868082,
+                    23.037748935860122
+                ]
+            },
+            "properties": {
+                "Name_CHN": "凤凰新村",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.25355656308318,
+                    22.9917519909622
+                ]
+            },
+            "properties": {
+                "Name_CHN": "沙园",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.26153077968081,
+                    23.028900935860122
+                ]
+            },
+            "properties": {
+                "Name_CHN": "宝岗大道",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.27902851490535,
+                    23.08925532339657
+                ]
+            },
+            "properties": {
+                "Name_CHN": "昌岗",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2845015139053,
+                    23.09182632339656
+                ]
+            },
+            "properties": {
+                "Name_CHN": "晓港",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29610051490533,
+                    23.09039332339654
+                ]
+            },
+            "properties": {
+                "Name_CHN": "中大",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.30056677868083,
+                    23.038242936860115
+                ]
+            },
+            "properties": {
+                "Name_CHN": "鹭江",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31238377868078,
+                    23.039087934860163
+                ]
+            },
+            "properties": {
+                "Name_CHN": "客村",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32760877868077,
+                    23.038970935860164
+                ]
+            },
+            "properties": {
+                "Name_CHN": "赤岗",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3425820000001,
+                    23.09866700000009
+                ]
+            },
+            "properties": {
+                "Name_CHN": "磨碟沙",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3582520000001,
+                    23.098705000000052
+                ]
+            },
+            "properties": {
+                "Name_CHN": "新港东",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.36670000000004,
+                    23.098519000000067
+                ]
+            },
+            "properties": {
+                "Name_CHN": "琶洲",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.38479600100004,
+                    23.097712001000048
+                ]
+            },
+            "properties": {
+                "Name_CHN": "万胜围",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.38479600100004,
+                    23.097712001000048
+                ]
+            },
+            "properties": {
+                "Name_CHN": "万胜围",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.36670000000004,
+                    23.098519000000067
+                ]
+            },
+            "properties": {
+                "Name_CHN": "琶洲",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3582520000001,
+                    23.098705000000052
+                ]
+            },
+            "properties": {
+                "Name_CHN": "新港东",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.3425820000001,
+                    23.09866700000009
+                ]
+            },
+            "properties": {
+                "Name_CHN": "磨碟沙",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.32760877868077,
+                    23.038970935860164
+                ]
+            },
+            "properties": {
+                "Name_CHN": "赤岗",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.31238377868078,
+                    23.039087934860163
+                ]
+            },
+            "properties": {
+                "Name_CHN": "客村",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.30056677868083,
+                    23.038242936860115
+                ]
+            },
+            "properties": {
+                "Name_CHN": "鹭江",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.29610051490533,
+                    23.09039332339654
+                ]
+            },
+            "properties": {
+                "Name_CHN": "中大",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.2845015139053,
+                    23.09182632339656
+                ]
+            },
+            "properties": {
+                "Name_CHN": "晓港",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.24690579132664,
+                    23.092824514905317
+                ]
+            },
+            "properties": {
+                "Name_CHN": "昌岗",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.26153077968081,
+                    23.028900935860122
+                ]
+            },
+            "properties": {
+                "Name_CHN": "宝岗大道",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.25260477868085,
+                    23.03172693586015
+                ]
+            },
+            "properties": {
+                "Name_CHN": "沙园",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.24806677868082,
+                    23.037748935860122
+                ]
+            },
+            "properties": {
+                "Name_CHN": "凤凰新村",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.10861400100009,
+                    22.993978000000084
+                ]
+            },
+            "properties": {
+                "Name_CHN": "魁奇路",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.10854400000005,
+                    23.006912000000057
+                ]
+            },
+            "properties": {
+                "Name_CHN": "季华园",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.10849100000007,
+                    23.019107000000076
+                ]
+            },
+            "properties": {
+                "Name_CHN": "同济路",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.11318000000006,
+                    23.02787600100004
+                ]
+            },
+            "properties": {
+                "Name_CHN": "祖庙",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.14341757924785,
+                    22.970571935860164
+                ]
+            },
+            "properties": {
+                "Name_CHN": "普君北路",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.18057332691546,
+                    22.9667557982508
+                ]
+            },
+            "properties": {
+                "Name_CHN": "朝安",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.14159400000005,
+                    23.03202900000008
+                ]
+            },
+            "properties": {
+                "Name_CHN": "桂城",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1541820000001,
+                    23.034118999000043
+                ]
+            },
+            "properties": {
+                "Name_CHN": "南桂路",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.15542400000004,
+                    23.042977000000064
+                ]
+            },
+            "properties": {
+                "Name_CHN": "虫雷岗",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.15534500000001,
+                    23.054996000000074
+                ]
+            },
+            "properties": {
+                "Name_CHN": "千灯湖",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.15628400000003,
+                    23.06687000000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "金融高新区",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.19104200000004,
+                    23.06579000000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "龙溪",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.20416177768084,
+                    23.00872893586012
+                ]
+            },
+            "properties": {
+                "Name_CHN": "菊树",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22415177768085,
+                    23.008009935860116
+                ]
+            },
+            "properties": {
+                "Name_CHN": "西朗",
+                "StationNum": 14,
+                "Status": 2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22415177768085,
+                    23.008009935860116
+                ]
+            },
+            "properties": {
+                "Name_CHN": "西朗",
+                "StationNum": 1,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.20416177768084,
+                    23.00872893586012
+                ]
+            },
+            "properties": {
+                "Name_CHN": "菊树",
+                "StationNum": 2,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.19104200000004,
+                    23.06579000000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "龙溪",
+                "StationNum": 3,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.15628400000003,
+                    23.06687000000005
+                ]
+            },
+            "properties": {
+                "Name_CHN": "金融高新区",
+                "StationNum": 4,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.15534500000001,
+                    23.054996000000074
+                ]
+            },
+            "properties": {
+                "Name_CHN": "千灯湖",
+                "StationNum": 5,
+                "Status": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.15542400000004,
+                    23.042977000000064
+                ]
+            },
+            "properties": {
+                "Name_CHN": "虫雷岗",
+                "StationNum": 6,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.1541820000001,
+                    23.034118999000043
+                ]
+            },
+            "properties": {
+                "Name_CHN": "南桂路",
+                "StationNum": 7,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.14159400000005,
+                    23.03202900000008
+                ]
+            },
+            "properties": {
+                "Name_CHN": "桂城",
+                "StationNum": 8,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.15297157924783,
+                    22.97056293586013
+                ]
+            },
+            "properties": {
+                "Name_CHN": "朝安",
+                "StationNum": 9,
+                "Status": 4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.14341757924785,
+                    22.970571935860164
+                ]
+            },
+            "properties": {
+                "Name_CHN": "普君北路",
+                "StationNum": 10,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.11318000000006,
+                    23.02787600100004
+                ]
+            },
+            "properties": {
+                "Name_CHN": "祖庙",
+                "StationNum": 11,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.10849100000007,
+                    23.019107000000076
+                ]
+            },
+            "properties": {
+                "Name_CHN": "同济路",
+                "StationNum": 12,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.10854400000005,
+                    23.006912000000057
+                ]
+            },
+            "properties": {
+                "Name_CHN": "季华园",
+                "StationNum": 13,
+                "Status": 3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.10861400100009,
+                    22.993978000000084
+                ]
+            },
+            "properties": {
+                "Name_CHN": "魁奇路",
+                "StationNum": 14,
+                "Status": 2
+            }
+        }
+    ]
+}

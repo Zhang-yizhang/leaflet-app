@@ -1,7 +1,6 @@
 <template>
   <div class="conatiner">
     <Layout></Layout>
-    <el-button type="primary">hello element-plus</el-button>  
   </div>
 </template>
 

@@ -2,6 +2,7 @@
   <div class="map-container">
     <div id="map2d"></div>
     <Toolbar></Toolbar>
+    
   </div>
 </template>
 
@@ -12,10 +13,12 @@ import IconShadow from "./marker-shadow.png";
 import eventBus from "../js/bus";
 import Toolbar from "../ToolBar/ToolBar.vue";
 
+
 export default {
   name: "Map",
   components: {
-    Toolbar
+    Toolbar,
+    //LayerCluster
   },
   data() {
     return {
@@ -33,7 +36,7 @@ export default {
       const map = L.map("map2d", {
         crs: L.CRS.EPSG3857,
         center: [24.886566, 102.830513],
-        zoom: 11
+        zoom: 9
       });
       // console.log("map:", map);
       L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -42,6 +45,12 @@ export default {
         layerName: "streetMap"
       }).addTo(map);
 
+      // L.tileLayer("http://map.geoq.cn/ArcGIS/rest/services/ChinaOnlineStreetPurplishBlue/MapServer/tile/{z}/{y}/{x}", {
+      //   attribution:
+      //     '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      //   layerName: "streetMap"
+      // }).addTo(map);
+    
       const latlng1 = L.latLng([24.89299, 102.836694]);
       const latlng2 = L.latLng([24.85101, 102.795231]);
       const latlng3 = L.latLng([24.79112, 102.795231]);
